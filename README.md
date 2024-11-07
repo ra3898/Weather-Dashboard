@@ -32,5 +32,5 @@ Check another live site [Host by Github](https://sahiljanbandhu.github.io/Weathe
 
 ![Capt1ure](https://user-images.githubusercontent.com/22257930/87544779-a4dc1d80-c6c4-11ea-9904-e7d3ca268f66.PNG)
 
-Developed by: **Sahil Janbandhu**
+Developed by: **Roshan Singh**
 
